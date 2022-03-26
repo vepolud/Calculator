@@ -8,11 +8,12 @@ public class Calculator {
 
     public void run() throws Exception {
         String[] operands = getExpression();
+
         int firstNum = getInt(operands[0]);
         int secondNum = getInt(operands[2]);
-//        if (isPair % 2 == 0) {
+
         int result = getResult(firstNum, secondNum, operands[1]);
-//        } else System.out.println("операнды разных систем счисления");
+
         if (isRomeNumber == 0) {
             System.out.println("Результат выражения = " + result);
         } else {

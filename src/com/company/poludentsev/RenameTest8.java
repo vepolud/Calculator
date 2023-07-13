@@ -1,4 +1,4 @@
 package com.company.poludentsev;
 
-public class Test8 {
+public class RenameTest8 {
 }

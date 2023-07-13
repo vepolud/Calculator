@@ -1,4 +1,4 @@
 package com.company.poludentsev;
 
-public class ReanamedTest1 {
+public class Test1 {
 }

@@ -1,7 +1,7 @@
 package com.company.poludentsev;
 
-public class test2 {
+public class renamedtest2 {
     public static void main(String[] args) {
-        System.out.println("test2");
+        System.out.println("renamedtest2");
     }
 }
